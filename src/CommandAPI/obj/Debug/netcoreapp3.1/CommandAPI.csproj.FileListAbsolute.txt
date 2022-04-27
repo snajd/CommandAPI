@@ -18,3 +18,10 @@ C:\Users\robin\src\CommandAPISolution\src\CommandAPI\obj\Debug\netcoreapp3.1\sta
 C:\Users\robin\src\CommandAPISolution\src\CommandAPI\obj\Debug\netcoreapp3.1\CommandAPI.dll
 C:\Users\robin\src\CommandAPISolution\src\CommandAPI\obj\Debug\netcoreapp3.1\CommandAPI.pdb
 C:\Users\robin\src\CommandAPISolution\src\CommandAPI\obj\Debug\netcoreapp3.1\CommandAPI.genruntimeconfig.cache
+C:\Users\robin\src\CommandAPISolution\src\CommandAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\robin\src\CommandAPISolution\src\CommandAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\robin\src\CommandAPISolution\src\CommandAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\robin\src\CommandAPISolution\src\CommandAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\robin\src\CommandAPISolution\src\CommandAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\robin\src\CommandAPISolution\src\CommandAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\robin\src\CommandAPISolution\src\CommandAPI\obj\Debug\netcoreapp3.1\CommandAPI.csproj.CopyComplete
